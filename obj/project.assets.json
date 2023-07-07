@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\lonch\\OneDrive\\Documentos\\CASH Masters\\CASH Masters.csproj",
+      "projectUniqueName": "C:\\Users\\lonch\\OneDrive\\Documentos\\GitHub\\CASH-Masters\\CASH Masters.csproj",
       "projectName": "CASH Masters",
-      "projectPath": "C:\\Users\\lonch\\OneDrive\\Documentos\\CASH Masters\\CASH Masters.csproj",
+      "projectPath": "C:\\Users\\lonch\\OneDrive\\Documentos\\GitHub\\CASH-Masters\\CASH Masters.csproj",
       "packagesPath": "C:\\Users\\lonch\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\lonch\\OneDrive\\Documentos\\CASH Masters\\obj\\",
+      "outputPath": "C:\\Users\\lonch\\OneDrive\\Documentos\\GitHub\\CASH-Masters\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\lonch\\AppData\\Roaming\\NuGet\\NuGet.Config"
