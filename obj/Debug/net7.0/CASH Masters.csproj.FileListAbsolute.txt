@@ -1,0 +1,15 @@
+C:\Users\lonch\OneDrive\Documentos\CASH Masters\bin\Debug\net7.0\CASH Masters.exe
+C:\Users\lonch\OneDrive\Documentos\CASH Masters\bin\Debug\net7.0\CASH Masters.deps.json
+C:\Users\lonch\OneDrive\Documentos\CASH Masters\bin\Debug\net7.0\CASH Masters.runtimeconfig.json
+C:\Users\lonch\OneDrive\Documentos\CASH Masters\bin\Debug\net7.0\CASH Masters.dll
+C:\Users\lonch\OneDrive\Documentos\CASH Masters\bin\Debug\net7.0\CASH Masters.pdb
+C:\Users\lonch\OneDrive\Documentos\CASH Masters\obj\Debug\net7.0\CASH Masters.csproj.AssemblyReference.cache
+C:\Users\lonch\OneDrive\Documentos\CASH Masters\obj\Debug\net7.0\CASH Masters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lonch\OneDrive\Documentos\CASH Masters\obj\Debug\net7.0\CASH Masters.AssemblyInfoInputs.cache
+C:\Users\lonch\OneDrive\Documentos\CASH Masters\obj\Debug\net7.0\CASH Masters.AssemblyInfo.cs
+C:\Users\lonch\OneDrive\Documentos\CASH Masters\obj\Debug\net7.0\CASH Masters.csproj.CoreCompileInputs.cache
+C:\Users\lonch\OneDrive\Documentos\CASH Masters\obj\Debug\net7.0\CASH Masters.dll
+C:\Users\lonch\OneDrive\Documentos\CASH Masters\obj\Debug\net7.0\refint\CASH Masters.dll
+C:\Users\lonch\OneDrive\Documentos\CASH Masters\obj\Debug\net7.0\CASH Masters.pdb
+C:\Users\lonch\OneDrive\Documentos\CASH Masters\obj\Debug\net7.0\CASH Masters.genruntimeconfig.cache
+C:\Users\lonch\OneDrive\Documentos\CASH Masters\obj\Debug\net7.0\ref\CASH Masters.dll
